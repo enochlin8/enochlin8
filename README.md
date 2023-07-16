@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Enoch Lin</h1>
-<h3 align="center">I am a student at San Francisco State University</h3>
+<h3 align="center">I am a student at San Francisco State University</h3>\
+<img align = "right" alt = "Coding" width = "400" https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif
 
 - 🌱 I’m currently learning **JavaScript, Python**
 
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **enochlin18@outlook.com**
 
-- ⚡ Fun fact **I like working out**
+- ⚡ Fun fact **I like going working out**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
