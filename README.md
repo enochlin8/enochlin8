@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Enoch Lin</h1>
 <h3 align="center">I am a third year computer science major at San Francisco State University</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9ba876c6f9181f8bdfa4ddd0f4cffdd9ebf6ffc6816feb3e490a41bb978b4732/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3830302f312a6d7237575877387467704d687175674b5032576872412e676966">
-- 🌱 I’m currently learning **JavaScript, Python, SQL**
+
+- 🌱 I’m currently learning **Java, Python, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/enochlin8](https://github.com/enochlin8)
 
-- 💬 Ask me about **JavaScript, Python, SQL**
+- 💬 Ask me about **Java, Python, SQL**
 
 - 📫 How to reach me **enochlin18@outlook.com / elin5@sfsu.edu**
 
