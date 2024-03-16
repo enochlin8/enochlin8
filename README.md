@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Enoch Lin</h1>
 <h3 align="center">I am a third year computer science major at San Francisco State University</h3>
-
+<img_align="right" alt="Coding" width="400" src="https://birthdaycardstomake.blogspot.com/2022/12/programmer-gifs.html">
 - 🌱 I’m currently learning **JavaScript, Python, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/enochlin8](https://github.com/enochlin8)
 
 - 💬 Ask me about **JavaScript, Python, SQL**
 
-- 📫 How to reach me **enochlin18@outlook.com**
+- 📫 How to reach me **enochlin18@outlook.com / elin5@sfsu.edu**
 
 - 📄 Know about my experiences [file:///C:/Users/Enoch/Downloads/Enoch%20Lin%202024%20Resume.pdf](file:///C:/Users/Enoch/Downloads/Enoch%20Lin%202024%20Resume.pdf)
 
