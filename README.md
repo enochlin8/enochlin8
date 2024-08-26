@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **enochlin18@outlook.com / elin5@sfsu.edu**
 
-- 📄 Know about my experiences [file:///C:/Users/Enoch/Downloads/Enoch%20Lin%202024%20Resume.pdf](file:///C:/Users/Enoch/Downloads/Enoch%20Lin%202024%20Resume.pdf)
-
 - ⚡ Fun fact **I like working out**
 
 <h3 align="left">Connect with me:</h3>
