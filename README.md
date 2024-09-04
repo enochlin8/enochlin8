@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **enochlin18@outlook.com**
 
-- ⚡ Fun fact **I like going working out**
+- ⚡ Fun fact **I like working out**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
