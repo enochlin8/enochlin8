@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Enoch Lin</h1>
 <h3 align="center">I am a third year computer science major at San Francisco State University</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=YOe9zv8W&id=92FA0C4D0C651A711C610A686413451F4C0A79E6&thid=OIP.YOe9zv8WuHDnGdo-yBhOUgAAAA&mediaurl=https%3A%2F%2Fmedia.tenor.com%2FZdYFg0dDxdwAAAAM%2Fsmiling-friends-guy-in-wall.gif&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.60e7bdceff16b870e719da3ec8184e52%3Frik%3D5nkKTB9FE2RoCg%26pid%3DImgRaw%26r%3D0&exph=248&expw=220&q=coding+gif&simid=608035978329864411&form=IRPRST&ck=04D84623475478389F4A3DCDCD0B5C47&selectedindex=2&itb=0&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_um19N%252Foe*cp_7F9784E471164BEFCD915A443412BB30*mid_161DB8D0372DD5857E3CD4540A41D8F8D496D0EF*simid_607996357264502540*thid_OIP.um19N!_oeTKlmrHMov0O5bAHaEH&vt=0&sim=11&iss=VSI&ajaxhist=0&ajaxserp=0">
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=uGIdIh7U&id=C372BE93E90FCC6749E8F7326266AF8ECF6C5CFD&thid=OIP.uGIdIh7Um_O_Cry35-_uhwHaFj&mediaurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1019864%2Fscreenshots%2F3079099%2Fcodeloop.gif&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.b8621d221ed49bf3bf0abcb7e7efee87%3Frik%3D%252fVxsz46vZmIy9w%26pid%3DImgRaw%26r%3D0&exph=600&expw=800&q=coding+gif&simid=608020121336498669&FORM=IRPRST&ck=4EF19D2214CEC58B8920F1B5FC19690A&selectedIndex=15&itb=0&cw=1109&ch=544&ajaxhist=0&ajaxserp=0">
 
 - 🌱 I’m currently learning **Java, Python, SQL**
 
