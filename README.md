@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Enoch Lin</h1>
-<h3 align="center">I am a fourth year Computer science major at San Francisco State University</h3>
+<h3 align="center">I am a fourth year Computer Science major at San Francisco State University</h3>
 
 - 🌱 I’m currently learning **Java, Python, SQL**
 
