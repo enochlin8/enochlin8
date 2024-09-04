@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Enoch Lin</h1>
 <h3 align="center">I am a third year computer science major at San Francisco State University</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/cat-computer-typing-funny-cats-anonymous-gif-14797159">
+<img align="right" alt="Coding" width="400" src="https://www.deviantart.com/arsen2005/art/Coding-Programming-Wallpaper-1-939622445">
 
 - 🌱 I’m currently learning **Java, Python, SQL**
 
