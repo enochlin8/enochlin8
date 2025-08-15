@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Enoch Lin</h1>
 <h3 align="center">I am a fourth year Computer Science major at San Francisco State University</h3>
 
-- 🌱 I’m currently learning **Java, Python, SQL**
+- 🌱 I’m currently learning **C++, Java, Python, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/enochlin8](https://github.com/enochlin8)
 
